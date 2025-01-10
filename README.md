@@ -2,7 +2,7 @@
 
 <h1 align="center"> I am an undergraduate Systems and Biomedical Engineer || Cairo University</h1>
 
-<p align="center"> <img src="./assets/profile-gif.gif" alt="Mazen marwan" /> </p>
+<p style="width:200;" align="center"> <img style="width:100%;" src="./assets/profile-gif.gif" alt="Mazen marwan" /> </p>
 
 
 📫 How to reach me: **mazen55moez@gmail.com**
