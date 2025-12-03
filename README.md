@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mazen</h1>
+<h1 align="center">Hey, I'm Mazen!</h1>
 
-<h1 align="center"> I am an undergraduate Systems and Biomedical Engineer || Cairo University</h1>
+<h1 align="center"> I am a Senior Systems and Biomedical Engineer || Cairo University </h1>
 
-<p style="width:200;" align="center"> <img style="width:100%;" src="./assets/profile-gif.gif" alt="Mazen marwan" /> </p>
+<p style="width:200;" align="center"> <img style="width:100%;" src="./assets/profile_github.gif" alt="Mazen marwan" /> </p>
 
 
 📫 How to reach me: **mazen55moez@gmail.com**
